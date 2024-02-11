@@ -5,7 +5,7 @@
     font-family: serif ,'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 body{
-    background: url(/images/project-2.jpg)  no-repeat center center/ cover;
+    background: url(../images/project-2.jpg) no-repeat center center/ cover;
     height: 100vh;
     position: relative;
 }
